@@ -52,7 +52,7 @@ least no. of customer stay booked for 4 day stay i.e. 5% approx.
 12) From All of available city data Bangalore has lowest rating of 3.41, with occupancy of 55.68% and revenue of 415.03M.
 13) If we go through chart we can see that Mumbai has highest difference in term of Total Booking with respective capacity of Room.
 
-## Useful Measures
+## Some Possible Measures
 1) While Analysis of report one think is very much clear that all property has Flat Price through season as per 3 month data which generally not good for generating high revenue hospitality industries. 
    We should kept Dynamic Pricing or Weekend Hike for Current booking.
 2) Their is also not much difference in term of ADR mention at booking channel, atleast  we can put  little higher price with providing some offer like discount in next booking, breakfast free, or other available service offer.
