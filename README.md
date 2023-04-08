@@ -1,5 +1,5 @@
 # Atliq_hotel_insights_2.0
-This is the updated version of Prevision Hospitality Domain project of ATLIQ based some useful feedback from stakeholder
+This is the updated version of previous Hospitality Domain project of ATLIQ based some useful feedback from stakeholder
 
 # Problem Statement 
 ## Provide Insight to revenue team in Hospitality Domain
