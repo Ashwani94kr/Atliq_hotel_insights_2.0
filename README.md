@@ -61,3 +61,8 @@ least no. of customer stay booked for 4 day stay i.e. 5% approx.
    The main possible reason could be service provide to customer which would be not satisfactory, hence bad service also affect the occupancy and revenue correspond to it.
 4) What we can do first check the services issues improve as soon as possible, provide some  offer to attract more customer ,
    asked for there valuable review while stay and checkout.
+
+## Project submission certificate
+
+   ![Project submission certificate](https://github.com/Ashwani94kr/Atliq_hotel_insights_2.0/assets/110016087/bd26fbb1-1117-4736-ab56-ef80550286b9)
+
